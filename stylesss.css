@@ -153,6 +153,15 @@ form .button {
   height: 45px;
   margin: 35px 0;
 }
+
+.barrier {
+  width: 100%;
+  text-align: right;
+  margin-top: -20px;
+  padding-right: 10px;
+  color: #737373;
+}
+
 form .button input {
   height: 100%;
   width: 100%;

@@ -167,6 +167,14 @@
       box-shadow: 0 4px 15px 0 rgba(245,245,245);
       border: #000 2px solid;
     }
+
+    .barrier {
+      width: 100%;
+      text-align: right;
+      margin-top: -20px;
+      padding-right: 10px;
+      color: #737373;
+    }
     
     @media screen and (max-width: 426px) {
       .link-web .btn {
